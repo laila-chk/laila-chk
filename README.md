@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=ayu-mirage)](https://github.com/Ayg0/github-readme-stats)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=material-palenight)](https://github.com/laila-chk/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&hide_progress=true)
