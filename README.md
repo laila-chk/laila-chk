@@ -1,19 +1,11 @@
- Hi, it's @laila-chk Laila CHOKRI 👋
- 
-  I’m still dicovering what i'm interested in ..
-  
- I’m currently working with C, C++, Python and planning to learn more ✨.
- 
- How to reach me? here's my [linked in.](https://www.linkedin.com/in/laila-chokri-1a1794250)
+![Welcome To my Profile](https://github.com/laila-chk/laila-chk/assets/73915468/ded1fd28-b7cf-4a34-ba59-00d7704e9e21)
 
-<!---
-laila-chk/laila-chk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey There! I am Laila, also called Elcie by my friends 😁
 
-## **Languages:**
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=ayu-mirage)](https://github.com/Ayg0/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=material-palenight)](https://github.com/laila-chk/github-readme-stats)
+I've been through some Low level Programming using C and C++  as Well as Some High Level With typescript and Python and some other stuff
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&hide_progress=true)
+And still aiming to learn and discover more ✨✨
+
+here's what I played with so far:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=material-palenight&hide_progress=true)
