@@ -11,7 +11,7 @@
  >
 >    here are the languages I used so far:
  >
->   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=material-palenight&hide_progress=true)
+>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-chk&theme=material-palenight&hide_progress=true&langs_count=12&hide_title=true)
 
 
 
